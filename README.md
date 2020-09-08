@@ -1,2 +1,5 @@
-# guessinggame
-Function indicates count of files in directory which if it is high then print too high else it will prints too low and if it is equal then Print congratulations
+##guessinggame
+
+Number of lines in guessinggame.sh: 14
+
+README.md created on: Tue Sep 8 17:41:37 IST 2020
